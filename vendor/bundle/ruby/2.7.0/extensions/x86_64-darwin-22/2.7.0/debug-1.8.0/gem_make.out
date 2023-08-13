@@ -1,0 +1,19 @@
+current directory: /Users/lennie/Development /rails/cheese-shop/vendor/bundle/ruby/2.7.0/gems/debug-1.8.0/ext/debug
+/Users/lennie/.rbenv/versions/2.7.8/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/lennie/Development /rails/cheese-shop/vendor/bundle/ruby/2.7.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230813-4903-rr0i3y sitelibdir\=./.gem.20230813-4903-rr0i3y clean
+
+current directory: /Users/lennie/Development /rails/cheese-shop/vendor/bundle/ruby/2.7.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230813-4903-rr0i3y sitelibdir\=./.gem.20230813-4903-rr0i3y
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.bundle
+
+current directory: /Users/lennie/Development /rails/cheese-shop/vendor/bundle/ruby/2.7.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230813-4903-rr0i3y sitelibdir\=./.gem.20230813-4903-rr0i3y install
+/usr/local/bin/ginstall -c -m 0755 debug.bundle ./.gem.20230813-4903-rr0i3y/debug
+
+current directory: /Users/lennie/Development /rails/cheese-shop/vendor/bundle/ruby/2.7.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230813-4903-rr0i3y sitelibdir\=./.gem.20230813-4903-rr0i3y clean

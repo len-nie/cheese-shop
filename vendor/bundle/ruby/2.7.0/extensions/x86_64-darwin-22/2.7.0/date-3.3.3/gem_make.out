@@ -1,0 +1,24 @@
+current directory: /Users/lennie/Development /rails/cheese-shop/vendor/bundle/ruby/2.7.0/gems/date-3.3.3/ext/date
+/Users/lennie/.rbenv/versions/2.7.8/bin/ruby extconf.rb
+checking for rb_category_warn()... no
+checking for timezone in time.h with  -Werror... yes
+checking for altzone in time.h with  -Werror... no
+creating Makefile
+
+current directory: /Users/lennie/Development /rails/cheese-shop/vendor/bundle/ruby/2.7.0/gems/date-3.3.3/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20230813-4903-e2jeri sitelibdir\=./.gem.20230813-4903-e2jeri clean
+
+current directory: /Users/lennie/Development /rails/cheese-shop/vendor/bundle/ruby/2.7.0/gems/date-3.3.3/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20230813-4903-e2jeri sitelibdir\=./.gem.20230813-4903-e2jeri
+compiling date_core.c
+compiling date_parse.c
+compiling date_strftime.c
+compiling date_strptime.c
+linking shared-object date_core.bundle
+
+current directory: /Users/lennie/Development /rails/cheese-shop/vendor/bundle/ruby/2.7.0/gems/date-3.3.3/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20230813-4903-e2jeri sitelibdir\=./.gem.20230813-4903-e2jeri install
+/usr/local/bin/ginstall -c -m 0755 date_core.bundle ./.gem.20230813-4903-e2jeri
+
+current directory: /Users/lennie/Development /rails/cheese-shop/vendor/bundle/ruby/2.7.0/gems/date-3.3.3/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20230813-4903-e2jeri sitelibdir\=./.gem.20230813-4903-e2jeri clean
